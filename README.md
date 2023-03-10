@@ -1,1 +1,1 @@
-# HVCWeapons
+# fivem-addon-weapons
